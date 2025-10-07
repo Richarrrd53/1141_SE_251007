@@ -2,6 +2,12 @@ num1=float(input("Enter first number:"))
 num2=float(input("Enter second number:"))
 choice=input("Enter choice (+,-,*,/)")
 
+<<<<<<< HEAD
+=======
+def miltuply (a, b):
+    return a * b
+
+>>>>>>> origin/Mul
 if choice=='+':
     print(f"Result:{add(num1,num2)}")
 elif choice=='-':
