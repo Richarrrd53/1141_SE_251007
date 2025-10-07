@@ -3,9 +3,14 @@ num2=float(input("Enter second number:"))
 choice=input("Enter choice (+,-,*,/)")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 def miltuply (a, b):
     return a * b
+=======
+def divide (a, b):
+    return a / b
+>>>>>>> origin/Div
 
 >>>>>>> origin/Mul
 if choice=='+':
