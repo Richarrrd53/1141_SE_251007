@@ -2,7 +2,7 @@ num1=float(input("Enter first number:"))
 num2=float(input("Enter second number:"))
 choice=input("Enter choice (+,-,*,/)")
 
-def miltuply (a, b):
+def miltiply (a, b):
     return a * b
 
 if choice=='+':
